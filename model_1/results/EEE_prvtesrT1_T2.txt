@@ -1,0 +1,4 @@
+Điểm EER model_1 với tập testT1: 8.91
+Điểm EER model_1 với tập testT2: 12.25
+Điểm EER checkpoint_avg_model với tập testT1: 8.325000000000005
+Điểm EER checkpoint_avg_model với tập testT2: 11.21
