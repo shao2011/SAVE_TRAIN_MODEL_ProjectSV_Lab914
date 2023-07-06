@@ -1,1 +1,0 @@
-tensor([73.9221], device='cuda:0') tensor([75.7178], device='cuda:0') tensor([76.3832], device='cuda:0') tensor([76.7521], device='cuda:0') tensor([76.6973], device='cuda:0') tensor([76.0660], device='cuda:0') tensor([75.3125], device='cuda:0') tensor([73.9959], device='cuda:0') tensor([72.9164], device='cuda:0') tensor([74.3211], device='cuda:0') 
